@@ -1,17 +1,14 @@
-# ChatAppFirebase
 
-I have deleted google-services.json. Add yours
-<br><b> Change Authorization:key with your key from firebase project</b>
+## 💝 Ủng hộ tôi
 
-<br>Implementation Guide 
-<br>1 - Project
-<br>1 - Open the Project in your android studio;
-<br>2 - *IMPORTANT* Change the Package Name. (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+### Nếu bạn thấy dự án của tôi hữu ích và muốn ủng hộ tôi, hãy quét mã QR bên dưới:
 
-<br>2 - Firebase Panel
-<br>- Create Firebase Project (https://console.firebase.google.com/);
-<br>- Import the file google-service.json into your project
-<br>- Connect to firebase console authentication and database from your IDE (video 2)
-<br>- in firebase Storage Rules, change value of "allow read, write:" from "if request.auth != null" to "if true;" (video 12) 
-<br>- For sending notification, paste your Firebase project key into your project APIService.java (video 18) 
-<br>- When you change database settings, you likely will need to uninstall and reinstall apps to avoid app crashes due to app caches.
+| ![QR Code for MoMo](./img_github_momo_donate.png)                                                                             | ![Thank you](./img_thank_you.gif) | ![QR Code for Bank](./img_github_tech_donate.png) | ![Thank you](./img_thank_you.gif) |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------------------|-----------------------------------|
+| **Momo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>0981054498 - NGUYEN ANH DAT** | **Thank you 🙌**                  | **Techcombank:<br/>1981054498 - NGUYEN ANH DAT**  | **Thank you 🙌**                  |
+
+### Cảm ơn sự hào phóng của bạn! 🙌
+
+---
+
+# Deprecated
